@@ -17,8 +17,8 @@ Demo: [http://expresscart.mrvautin.com](http://expresscart.mrvautin.com)
 4. Go to  [http://127.0.0.1:7777](http://127.0.0.1:7777) in your browser
 
 ### NPM
-1. Install from NPM: `npm install ExpressCart`
-2. Move folder from `node_modules`: `mv node_modules/expresscart/ ./ExpressCart`
+1. Install from NPM: `npm install express-cart`
+2. Move folder from `node_modules`: `mv node_modules/express-cart/ ./ExpressCart`
 3. Enter folder: `cd ExpressCart`
 4. Install dependencies: `npm install`
 5. Start application: `npm start`

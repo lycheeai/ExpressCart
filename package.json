@@ -1,5 +1,5 @@
 {
-  "name": "ExpressCart",
+  "name": "express-cart",
   "version": "1.0.3",
   "private": false,
   "scripts": {
@@ -48,12 +48,13 @@
     "ecommerce",
     "paypal",
     "lunr",
-    "cart"
+    "cart",
+    "shopping"
   ],
   "author": "Mark Moffat",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mrvautin/ExpressCart/issues"
   },
-  "homepage": "http://mrvautin.com"
+  "homepage": "https://mrvautin.com"
 }
